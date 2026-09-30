@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If EdgeV10-NPU contributes to your work, please cite this repository."
+title: "EdgeV10-NPU: Hardware-Aware YOLOv10 Acceleration Toolkit"
+type: software
+abstract: "A deployment-oriented YOLOv10 research project for edge AI and NPU inference."
+license: AGPL-3.0
+version: 0.1.0
+
